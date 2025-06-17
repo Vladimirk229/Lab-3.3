@@ -1,0 +1,16 @@
+.custom-bg {
+  background-color: #d6e1f0;
+}
+
+.custom-shadow {
+  box-shadow: 0 0 50px 0 gray;
+}
+
+.custom-qr {
+  width: 300px;
+  height: 300px;
+}
+
+.attribution {
+  bottom: 10px;
+}
